@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frontend Developer
+- 👋 Hi, I’m Frontend Developer with 2+ years of practical expiriance.
 - 👀 I’m interested in React projects to perform and develop cool and profitable things.
 
 
